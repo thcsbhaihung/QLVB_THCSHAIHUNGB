@@ -1,0 +1,8 @@
+{
+  "name": "Remix QL Văn bản Trường học - Quản lý Văn bản \u0026 Nhiệm vụ Nhà trường",
+  "description": "Hệ thống quản lý văn bản đến, văn bản đi, phân công nhiệm vụ chuyên môn và theo dõi lịch công tác dành cho trường học (THCS, THPT, Tiểu học).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
